@@ -1,0 +1,18 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "author": "Galvanize <info@galvanize.com>",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "scripts": {
+    "start":"lite-server"
+  },
+
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "dependencies": {
+    "angular": "1.6.0"
+  }
+}
